@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Luiz 👋
 
-Desenvolvedor Full Stack com foco em desenvolvimento web e software.
-Apaixonado por tecnologia e criação de aplicações.
+Sou desenvolvedor Full Stack morador de Votorantim, SP — Brasil.
+Apaixonado por tecnologia, criação de aplicações web e software.
 Atualmente aprendendo Java e explorando o desenvolvimento mobile.
 
 ---
