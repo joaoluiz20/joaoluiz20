@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Olá, eu sou o João Luiz 👋
 
 Sou desenvolvedor Full Stack morador de Votorantim, SP — Brasil.
@@ -30,3 +32,5 @@ Atualmente aprendendo Java e explorando o desenvolvimento mobile.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-luiz-pedroso-hilario-5563401b7/?skipRedirect=true)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5515991492155)
+
+</div>
