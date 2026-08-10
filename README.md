@@ -21,7 +21,6 @@ Atualmente aprendendo Java e explorando o desenvolvimento mobile.
 
 ### 📊 GitHub Stats
 
-![João's GitHub Stats](https://readme-stats.vercel.app/api?username=joaoluiz20&show_icons=true&theme=dark)
 
 ---
 
