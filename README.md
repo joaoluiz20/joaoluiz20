@@ -19,8 +19,9 @@ Atualmente aprendendo Java e explorando o desenvolvimento mobile.
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Minhas contribuições
 
+![Snake animation](https://raw.githubusercontent.com/joaoluiz20/joaoluiz20/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
