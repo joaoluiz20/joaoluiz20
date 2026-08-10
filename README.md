@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olá, eu sou o João Luiz 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Luiz+👋;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 Sou desenvolvedor Full Stack morador de Votorantim, SP — Brasil.
 Apaixonado por tecnologia, criação de aplicações web e software.
